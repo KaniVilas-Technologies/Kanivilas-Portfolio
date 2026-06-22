@@ -22,7 +22,7 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 <div align="center">
 Cloud Engineering • Enterprise Automation • Intelligent Platforms • Mobile Systems • DevOps Infrastructure
 </div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38bdf8,100:2563eb">
 
 # ⚡ What Makes KVTECH Different?
 
