@@ -1,186 +1,149 @@
-<div align="center">
+# 🏢 Kani Vilas Technology Services (KVTECH)
 
-# 🚀 Kani Vilas Technology Services
+🌐 Website: [kvtechserv.com](https://kvtechserv.com/)
+📧 Email: [manikandan@kvtechserv.com](mailto:manikandan@kvtechserv.com)
+📞 Office: +91 0452 2679097 | +91 0452 2679098
+📱 Mobile: +91 8667604978
+📍 Location: Madurai & Chennai, Tamil Nadu, India
+💼 LinkedIn: [KV Technology Services](https://www.linkedin.com/company/kv-technology-services/)
 
-### Engineering Innovation Through Technology
+---
 
-<p>
-Cloud • Automation • IoT • Enterprise Applications • DevOps
+## 🏛 About Us
+
+Kani Vilas Technology Services (KVTECH) is an enterprise technology company delivering scalable solutions across Cloud Engineering, IoT, Automation, AI, and Mobile Applications. We build reliable, secure, and cloud-ready systems for businesses across industries.
+
+- **Domain:** Enterprise Software · Cloud · IoT · AI · Automation · Mobile
+- **Headquarters:** Madurai, Tamil Nadu, India
+- **Focus:** Scalable · Reliable · Secure · Automated · Cloud-Ready
+
+---
+
+## 🛠 Skills
+
+**Development**
+- **Languages:** Python, JavaScript, HTML5, CSS3
+- **Frameworks:** React, .NET
+- **Tools:** VS Code, Git, GitHub
+
+**Cloud & DevOps**
+- **Cloud:** Microsoft Azure
+- **DevOps:** Azure DevOps, CI/CD Pipelines, GitHub Actions
+
+**IoT & Automation**
+- **Hardware:** Raspberry Pi
+- **Protocols:** MQTT, REST APIs
+- **Automation:** Process Automation, Workflow Orchestration
+
+---
+
+## 💻 Visual Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet,azure,github,git,raspberrypi" />
 </p>
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+## 🚀 Projects
 
-# 🌍 About KVTECH
-
-> Delivering scalable enterprise solutions through cloud technologies, intelligent automation, and modern engineering practices.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-# 🚀 Engineering Ecosystem
-<div align="center">
-Cloud Engineering • Enterprise Automation • Intelligent Platforms • Mobile Systems • DevOps Infrastructure
-</div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38bdf8,100:2563eb">
-
-# ⚡ What Makes KVTECH Different?
-
-✔ Engineering-Driven Solutions  
-✔ Business-Oriented Development  
-✔ Scalable Cloud Infrastructure  
-✔ Enterprise Workflow Automation  
-✔ Cross-Platform Application Ecosystem  
-✔ Long-Term Technical Support  
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🏢 Industries We Serve
-<div align="center">
-Manufacturing • Healthcare • Finance • Education • Retail • Mining • Logistics • Enterprise Operations
-</div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🛠 Engineering Capabilities
-
-<div align="center">
-
-| ☁ Cloud & DevOps | ⚙ Enterprise Systems | 📱 Mobile Solutions |
-|:---:|:---:|:---:|
-| Azure • CI/CD • Automation | ERP • Billing • Management | Tracking • Workforce • Smart Apps |
-
-| 🤖 Intelligent Automation | ⚡ IoT Engineering |
-|:---:|:---:|
-| AI • Workflow • Analytics | Sensors • Smart Infrastructure |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-# ⚡ Engineering Focus
-
-<div align="center">
-
-| ☁ Cloud Engineering | ⚙ Automation | 📊 Analytics | 🔄 DevOps |
-|:---:|:---:|:---:|:---:|
-| Azure Services | IoT Systems | Power BI | CI/CD Pipelines |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🛠 Technology Stack
-
-<div align="center">
-
-### 🚀 Development
-<img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet"/>
-
-<br>
-
-### ☁ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=azure,github,git"/>
-
-<br>
-
-### ⚙ IoT & Automation
-<img src="https://skillicons.dev/icons?i=raspberrypi"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-# 🚀 Featured Engineering Solutions
-
-⛽ **PetroSol**  
-Smart fuel station automation ecosystem for billing, stock management, and operational control.
+### 🛢 PetroSol
+*Enterprise Petroleum Operations Platform | Cloud · .NET · Azure*
+- Built end-to-end petroleum operations management system for enterprise clients
+- Integrated real-time field data monitoring and process control dashboards
+- Deployed on Microsoft Azure with high-availability architecture
 
 ---
 
-🤖 **AI Rebar Estimation**  
-AI-driven structural estimation platform for automated engineering analysis.
+### 🧱 AI Rebar Estimation
+*AI-Powered Construction Tool | Python · ML · Azure*
+- Developed ML model for automated rebar quantity prediction from construction drawings
+- Reduced manual estimation time significantly with AI-driven automation
+- Integrated with enterprise construction management workflows
 
 ---
 
-🧠 **Supplier Payment Automation**  
-Enterprise ERP reconciliation and intelligent workflow automation platform.
+### 💳 Supplier Payment Automation
+*Finance Automation Platform | .NET · Azure · Workflow*
+- Automated end-to-end B2B supplier payment processing workflows
+- Eliminated manual invoice reconciliation using intelligent automation
+- Integrated with ERP systems for seamless financial operations
 
 ---
 
-⛏ **Mining Operations Platform**  
-Integrated mining ecosystem for compliance, production, and operational management.
+### ⛏ Mining Operations Platform
+*Industrial Monitoring System | IoT · Cloud · Real-time*
+- Built real-time monitoring and operations management for large-scale mining sites
+- Integrated IoT sensors for live equipment tracking and safety alerts
+- Delivered cloud-based dashboard for remote site management
 
 ---
 
-👨‍💼 **Workforce Management**  
-Mobile workforce platform with attendance, GPS tracking, and payroll integration.
+### 👷 Workforce Management
+*Enterprise HR Suite | React · .NET · Azure*
+- Developed intelligent scheduling, attendance, and workforce analytics platform
+- Automated shift planning and workforce reporting for enterprise teams
+- Integrated with Azure AD for role-based access control
 
 ---
 
-⚙ **Smart IoT Applications**  
-Connected infrastructure integrating automation systems, sensors, and smart devices.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🔄 Engineering Lifecycle
-<div align="center">
-
-Analysis • Architecture • Development • Testing • CI/CD • Deployment
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## ☁ DevOps Workflow
-<div align="center">
-GitHub → Azure DevOps → CI/CD → Cloud Deployment
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## ⚡ Engineering Principles
-<div align="center">
-Scalable • Reliable • Secure • Automated • Cloud-Ready
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-# 🌐 Corporate Presence
-
-🏢 **Registered Office**  
-📍 3, Kani Vilas, Kavery II Street, Parasakthi Nagar, Madurai, Tamil Nadu – 625012
+### 📡 Smart IoT Applications
+*Industrial IoT Solutions | Raspberry Pi · MQTT · Cloud*
+- Designed connected device ecosystems for industrial automation environments
+- Built real-time remote monitoring using Raspberry Pi and cloud integration
+- Delivered scalable IoT architecture for multi-site deployments
 
 ---
 
-🏢 **Madurai Branch**  
-📍 No.7, 1st Floor, Meenakshi Avenue, APK Main Road, Opp. Gladway, Avaniyapuram, Madurai – 625012
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet,azure,github,git,raspberrypi" />
+</p>
 
 ---
 
-🏢 **Chennai Branch**  
-📍 No.141, Workafella, 7th Floor, TVH Agnitio Tech Park, OMR Service Road, Perungudi, Chennai – 600096
+## 🏢 Corporate Presence
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+**🏠 Madurai Office (Headquarters)**
+No.7, 1st Floor, Meenakshi Avenue, APK Main Road,
+Opp. Gladway, Avaniyapuram, Madurai - 625012
 
-# 📞 Contact
+**🏙 Chennai Branch**
+No.141, Workafella 7th Floor, TVH Agnitio Tech Park,
+OMR Service Rd, Kandhanchavadi, Perungudi, Chennai - 600096
 
-📧 manikandan@kvtechserv.com •   📱 +91 8667604978 •   ☎ +91 0452 2679097
+---
 
-🌐 https://kvtechserv.com/
+## 🔄 Engineering Workflow
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+```
+GitHub  →  Azure DevOps  →  CI/CD Pipeline  →  Azure Cloud Deployment
+```
 
-<div align="center">
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=%22Transforming+businesses+through+scalable+engineering+and+intelligent+automation.%22"/>
+## 🎯 Engineering Principles
 
-</div>
+**Scalable · Reliable · Secure · Automated · Cloud-Ready**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+---
 
-<div align="center">
+## 📬 Contact Us
 
-### ⭐ Engineering • Innovation • Automation ⭐
+| | |
+|---|---|
+| 📧 Email | [manikandan@kvtechserv.com](mailto:manikandan@kvtechserv.com) |
+| 📞 Office | +91 0452 2679097 \| +91 0452 2679098 |
+| 📱 Mobile | +91 8667604978 |
+| 🌐 Website | [kvtechserv.com](https://kvtechserv.com/) |
+| 💼 LinkedIn | [KV Technology Services](https://www.linkedin.com/company/kv-technology-services/) |
+| 📍 Madurai | No.7, 1st Floor, Meenakshi Avenue, APK Main Road, Avaniyapuram, Madurai - 625012 |
+| 📍 Chennai | No.141, Workafella 7th Floor, TVH Agnitio Tech Park, Perungudi, Chennai - 600096 |
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<p align="center">⭐ Engineering · Innovation · Automation ⭐</p>
+<p align="center">
+  <a href="https://kvtechserv.com/">kvtechserv.com</a>
+</p>
